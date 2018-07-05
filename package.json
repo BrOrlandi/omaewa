@@ -1,0 +1,22 @@
+{
+  "name": "omaewa",
+  "version": "1.0.1",
+  "description": "Omae wa mou shindeiru! Nani!??",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrOrlandi/omaewa.git"
+  },
+  "author": "Bruno Orlandi <brorlandi@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "omaewa": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/BrOrlandi/omaewa/issues"
+  },
+  "homepage": "https://github.com/BrOrlandi/omaewa#readme"
+}
